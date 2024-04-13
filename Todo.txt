@@ -1,0 +1,4 @@
+- Improve clustering performance
+	- identify best n-gram range
+	- assign meaning to each cluster
+- Read more papers. What are people doing right now?
