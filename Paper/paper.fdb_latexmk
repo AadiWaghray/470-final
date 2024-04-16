@@ -1,5 +1,12 @@
 # Fdb version 3
-["pdflatex"] 1713036340 "paper.tex" "paper.pdf" "paper" 1713036340
+["bibtex paper"] 1713268646 "paper.aux" "paper.bbl" "paper" 1713268647
+  "/usr/local/texlive/2022/texmf-dist/bibtex/bst/base/plain.bst" 1292289607 20613 bd3fbfa9f64872b81ac57a0dd2ed855f ""
+  "Bibliography.bib" 1713252789 65941 4af4d28ecd0241bdc35cea21a7288775 ""
+  "paper.aux" 1713268647 1901 d958f8dc641f5dba202ffa5be9aef405 "pdflatex"
+  (generated)
+  "paper.bbl"
+  "paper.blg"
+["pdflatex"] 1713268646 "paper.tex" "paper.pdf" "paper" 1713268647
   "/usr/local/texlive/2022/texmf-dist/fonts/enc/dvips/base/8r.enc" 1165713224 4850 80dc9bab7f31fb78a000ccfed0e27cab ""
   "/usr/local/texlive/2022/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/local/texlive/2022/texmf-dist/fonts/tfm/adobe/times/ptmb7t.tfm" 1136768653 2172 fd0c924230362ff848a33632ed45dc23 ""
@@ -31,7 +38,6 @@
   "/usr/local/texlive/2022/texmf-dist/tex/latex/amsmath/amstext.sty" 1636758526 2444 926f379cc60fcf0c6e3fee2223b4370d ""
   "/usr/local/texlive/2022/texmf-dist/tex/latex/base/ifthen.sty" 1622581934 5157 f308c7c04889e16c588e78aa42599fae ""
   "/usr/local/texlive/2022/texmf-dist/tex/latex/base/textcomp.sty" 1622581934 2894 55431114fc0e491ecee275edafd6c881 ""
-  "/usr/local/texlive/2022/texmf-dist/tex/latex/cite/cite.sty" 1425427964 26218 19edeff8cdc2bcb704e8051dc55eb5a7 ""
   "/usr/local/texlive/2022/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty" 1579991033 13886 d1306dcf79a944f6988e688c1785f9ce ""
   "/usr/local/texlive/2022/texmf-dist/tex/latex/graphics-cfg/color.cfg" 1459978653 1213 620bba36b25224fa9b7e1ccb4ecb76fd ""
   "/usr/local/texlive/2022/texmf-dist/tex/latex/graphics-cfg/graphics.cfg" 1465944070 1224 978390e9c2234eab29404bc21b268d1e ""
@@ -49,8 +55,9 @@
   "/usr/local/texlive/2022/texmf-var/web2c/pdftex/pdflatex.fmt" 1666365614 2826453 5e2da2ae2615fcd526c966e5a98843b8 ""
   "/usr/local/texlive/2022/texmf.cnf" 1647878952 577 209b46be99c9075fd74d4c0369380e8c ""
   "IEEEtran.cls" 1440654524 288304 b67b6fc6c2abb39f9b461923f5199343 ""
-  "paper.aux" 1713036340 228 554c89ac0f2710522f405264221feca2 "pdflatex"
-  "paper.tex" 1713036339 989 a6e3b8706072ebb0787a991687f9c6c2 ""
+  "paper.aux" 1713268647 1901 d958f8dc641f5dba202ffa5be9aef405 "pdflatex"
+  "paper.bbl" 1713268646 1288 6a39520e77860f490d4c2153c2ca6fc8 "bibtex paper"
+  "paper.tex" 1713268643 5222 4c30a9edcd3a690383f2ea8e32003dc7 ""
   (generated)
   "paper.aux"
   "paper.log"

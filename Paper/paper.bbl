@@ -1,0 +1,30 @@
+\begin{thebibliography}{1}
+
+\bibitem{canalSurveyFacialEmotion2022}
+Felipe~Zago Canal, Tobias~Rossi M{\"u}ller, Jhennifer~Cristine Matias,
+  Gustavo~Gino Scotton, Antonio~Reis {de Sa Junior}, Eliane Pozzebon, and
+  Antonio~Carlos Sobieranski.
+\newblock A survey on facial emotion recognition techniques: {{A}}
+  state-of-the-art literature review.
+\newblock {\em Information Sciences}, 582:593--617, January 2022.
+
+\bibitem{mehrabianInferenceAttitudesNonverbal1967}
+Albert Mehrabian and Susan~R. Ferris.
+\newblock Inference of attitudes from nonverbal communication in two channels.
+\newblock {\em Journal of Consulting Psychology}, 31(3):248--252, 1967.
+
+\bibitem{miyakoshiFacialEmotionDetection2011}
+Yoshihiro Miyakoshi and Shohei Kato.
+\newblock Facial emotion detection considering partial occlusion of face using
+  {{Bayesian}} network.
+\newblock In {\em 2011 {{IEEE Symposium}} on {{Computers}} \& {{Informatics}}},
+  pages 96--101, March 2011.
+
+\bibitem{sauterCrossculturalRecognitionBasic2010}
+Disa~A. Sauter, Frank Eisner, Paul Ekman, and Sophie~K. Scott.
+\newblock Cross-cultural recognition of basic emotions through nonverbal
+  emotional vocalizations.
+\newblock {\em Proceedings of the National Academy of Sciences},
+  107(6):2408--2412, February 2010.
+
+\end{thebibliography}
